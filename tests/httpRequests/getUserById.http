@@ -1,0 +1,5 @@
+### 200 {user}
+GET http://localhost:5000/api/users/6726470eaa3a8b85d9d53ea1
+
+### 404 Not Found
+GET http://localhost:5000/api/users/6726470eaa3a8b85d9d53ea2

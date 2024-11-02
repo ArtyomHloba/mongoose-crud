@@ -1,0 +1,8 @@
+### 204
+DELETE http://localhost:5000/api/users/6726496a7d9ef9767a7126e1
+
+### 404
+DELETE http://localhost:5000/api/users/6726496a7d9ef9767a7126e2
+
+### 500 -> 422
+DELETE http://localhost:5000/api/users/0
